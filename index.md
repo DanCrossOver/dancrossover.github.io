@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Dan Cross
 
 You can use the [editor on GitHub](https://github.com/DanCrossOver/dancrossover.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
